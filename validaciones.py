@@ -30,4 +30,4 @@ def pedir_dias():
                 return dias
             print("Error: La cantidad de días debe ser un número entero entre 1 y 30.")
         except ValueError:
-            print("Error: Debe ingresar un número entero válido.")
+            print("Error: Debe ingresar un número entero válido    .")

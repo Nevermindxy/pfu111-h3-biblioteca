@@ -19,7 +19,7 @@ El sistema viejo de la institución tenía varios errores comunes:
 * *Manejo de errores (try-except):* Si alguien ingresa una letra donde iba un número, el programa no se cae
 
 # Integrantes
-*Emilio Garcia
-*Yasser Caba
-*Harold Alvarez
-*Ignacio Fernandez
+*Emilio Garcia---Nevermindxy
+*Yasser Caba---Treud22
+*Harold Alvarez---HaroldAlvarez06
+*Ignacio Fernandez---aztecA8789
